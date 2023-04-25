@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "hideTwitterViews",
+  "version": "1.0",
+  "description": "a chrome extension that hides the views count from tweets on twitter",
+  "icons": {
+    "16": "images/hideTwitterViews-16.png",
+    "32": "images/hideTwitterViews-32.png",
+    "48": "images/hideTwitterViews-48.png",
+    "128": "images/hideTwitterViews-128.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["./scripts/index.js"],
+      "matches": ["https://twitter.com/*", "https://*.twitter.com/*"]
+    }
+  ]
+}
