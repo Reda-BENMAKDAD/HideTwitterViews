@@ -2,7 +2,7 @@
 
 ## Description
 
->`hideTwitterViews` is a simple Chrome extension that removes the views count from tweets on Twitter. With this extension, you can browse Twitter without seeing the number of views for each tweet.
+>`hideTwitterViews` is a simple Chrome extension that removes the views count from tweets on Twitter. With this extension, you can browse Twitter without seeing the number of views for each tweet. (apparently people are annoyed by that)
 
 ## Installation
 

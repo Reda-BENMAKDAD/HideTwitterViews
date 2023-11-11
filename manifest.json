@@ -15,7 +15,7 @@
   "content_scripts": [
     {
       "js": ["./scripts/index.js"], 
-      "matches": ["https://twitter.com/*", "https://*.twitter.com/*"]
+      "matches": ["https://*.twitter.com/*", "https://*.x.com/*"]
     }
   ]
 }
